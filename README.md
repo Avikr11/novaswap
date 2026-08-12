@@ -14,7 +14,7 @@ https://github.com/Avikr11/novaswap
 
 - 🔗 MetaMask wallet connection
 - 🌐 Sepolia testnet support
-- �� ETH ↔ USDC token swapping
+- 💠 ETH ↔ USDC token swapping
 - 📊 Real-time swap quotes from the router contract
 - 🔐 ERC-20 token approval flow
 - 🛡️ Slippage protection
@@ -23,13 +23,14 @@ https://github.com/Avikr11/novaswap
 - 📈 Portfolio valuation using market prices
 - 📜 Local swap transaction history
 - ⚙️ Swap settings
-- 📱 Responsive UI
 - ✨ Framer Motion animations
 - 🔔 Transaction and error states
+- 📱 Responsive UI
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - React
 - TypeScript
 - Vite
@@ -37,19 +38,22 @@ https://github.com/Avikr11/novaswap
 - Framer Motion
 
 ### Web3
+
 - Wagmi
 - Viem
 - MetaMask
 - Sepolia Testnet
 
 ### Smart Contracts
+
 - Solidity
 - Hardhat
 
 ### APIs
+
 - CoinGecko
 
-## ��️ Architecture
+## 🏗️ Architecture
 
 ```text
 React UI
@@ -70,7 +74,7 @@ React UI
    └── CoinGecko
            │
            ▼
-      Market Prices
+      Market Prices 
 
 ## 📸 Screenshots
 
