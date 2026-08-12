@@ -83,5 +83,5 @@ React UI
 ### Portfolio
 ![NovaSwap Portfolio](./novaswap-portfolio.png)
 
-### Transaction History & Settings
+### History & Settings
 ![NovaSwap History & Settings](./novaswap-history-settings.png)
