@@ -76,16 +76,3 @@ React UI
            ▼
       Market Prices 
 
-## 📸 Screenshots
-
-### Home
-![NovaSwap Home](./novaswap-home.png)
-
-### Swap
-![NovaSwap Swap](./novaswap-swap.png)
-
-### Portfolio
-![NovaSwap Portfolio](./novaswap-portfolio.png)
-
-### History & Settings
-![NovaSwap History & Settings](./novaswap-history-settings.png)
